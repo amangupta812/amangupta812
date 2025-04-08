@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta812&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
 <!--
 **amangupta812/amangupta812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
