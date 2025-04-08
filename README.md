@@ -3,9 +3,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=amangupta812)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=amangupta812)](https://git.io/streak-stats)
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=amangupta812&theme=dark&hide_border=false" alt="GitHub Streak" />
 
 <!--
 **amangupta812/amangupta812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
