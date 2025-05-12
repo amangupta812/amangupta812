@@ -6,54 +6,56 @@
 
 ---
 
-## 🙋‍♂️ About Me
+### 🙋‍♂️ About Me
 
-- 🎓 B.Tech CSE Student @ Parul University (2022–2026)
-- 💻 Passionate about Full Stack Development
-- 🧠 Learning Java & DSA from Apna College
-- 🌐 Currently building: Cosmo Travel & Hyperlocal Services Finder
-- 🦅 Motto: *"Fly like an eagle — bold, focused, and free!"*
+- 🎓 B.Tech CSE Student @ **Parul University (2022–2026)**
+- 💻 Full Stack Developer focused on MERN
+- 👨‍💻 Java & DSA Enthusiast | Apna College 🚀
+- 🔨 Projects: Cosmo Travel, Hyperlocal Service Finder
+- 🦅 Motto: _"Fly like an eagle — bold, focused, and free!"_
 
----
-
-## 🔧 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+> “Code with passion, debug with patience, and build with purpose.” ✨
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amangupta812&show_icons=true&theme=radical" alt="Aman's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amangupta812&theme=dark&hide_border=true" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta812&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github" />
 </p>
 
 ---
 
-## 🧩 GitHub Activity Graph
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amangupta812&theme=react-dark" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amangupta812&show_icons=true&theme=radical&border_radius=15" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amangupta812&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta812&layout=compact&theme=radical&langs_count=8" width="48%" />
 </p>
 
 ---
 
-## 📬 Let's Connect!
+### ⚡ Contribution Graph
 
-<p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amangupta812&theme=react-dark&bg_color=151515&hide_border=true" />
+</p>
+
+---
+
+### 🚀 Featured Projects *(optional)*
+
+> Add image links or project cards here for your **Cosmo Travel** and **Service Finder** with short blurbs.
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
   <a href="https://www.linkedin.com/in/amangupta812">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -64,6 +66,6 @@
 
 ---
 
-<!--
-✨ This README is crafted with passion and code by Aman Gupta ✨
--->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
