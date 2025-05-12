@@ -3,6 +3,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amangupta812&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
  
 [![GitHub Streak](https://streak-stats.demolab.com?user=amangupta812)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=)](https://git.io/streak-stats)
 
 
 <!--
