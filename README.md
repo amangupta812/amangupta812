@@ -47,9 +47,25 @@
 
 ---
 
-### 🚀 Featured Projects *(optional)*
+### 🚀 Featured Projects
 
-> Add image links or project cards here for your **Cosmo Travel** and **Service Finder** with short blurbs.
+#### 🌍 [**Cosmo Travel**](https://github.com/amangupta812/cosmo-travel)  
+A web app designed to enhance travel experiences by providing useful tools and features for travelers.
+  
+<p align="center">
+  <a href="https://github.com/amangupta812/cosmo-travel">
+    <img src="https://img.shields.io/badge/GitHub-Repo-%23007A5E?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+#### 🛠️ [**Hyperlocal Service Finder**](https://github.com/amangupta812/hyperlocal-service-finder)  
+A MERN stack project for finding local services like plumbers and electricians in your area.
+
+<p align="center">
+  <a href="https://github.com/amangupta812/hyperlocal-service-finder">
+    <img src="https://img.shields.io/badge/GitHub-Repo-%23007A5E?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
