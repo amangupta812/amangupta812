@@ -30,7 +30,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amangupta812&show_icons=true&theme=radical&border_radius=15" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=amangupta812&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=amangupta812&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
 </p>
 
 <p align="center">
