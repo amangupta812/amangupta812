@@ -30,8 +30,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amangupta812&show_icons=true&theme=radical&border_radius=15" width="48%" />
-  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=amangupta812&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amangupta812&layout=compact&theme=radical&langs_count=8" width="48%" />
@@ -51,7 +51,7 @@
 
 #### 🌍 [**Cosmo Travel**](https://github.com/amangupta812/cosmo-travel)  
 A web app designed to enhance travel experiences by providing useful tools and features for travelers.
-  
+
 <p align="center">
   <a href="https://github.com/amangupta812/cosmo-travel">
     <img src="https://img.shields.io/badge/GitHub-Repo-%23007A5E?style=for-the-badge&logo=github&logoColor=white" />
