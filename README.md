@@ -53,6 +53,7 @@
 
 #### 🌍 [**Cosmo Travel**](https://github.com/amangupta812/cosmo-travel)  
 A web app designed to enhance travel experiences by providing useful tools and features for travelers.
+<br/>
 👉 **Live Demo**: [Cosmo Travel App](https://cosmo-travel-hub.netlify.app/)
 
 <p align="center">
