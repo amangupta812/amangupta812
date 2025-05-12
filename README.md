@@ -53,6 +53,7 @@
 
 #### 🌍 [**Cosmo Travel**](https://github.com/amangupta812/cosmo-travel)  
 A web app designed to enhance travel experiences by providing useful tools and features for travelers.
+👉 **Live Demo**: [Cosmo Travel App](https://cosmo-travel-hub.netlify.app/)
 
 <p align="center">
   <a href="https://github.com/amangupta812/cosmo-travel">
@@ -88,13 +89,4 @@ A MERN stack project for finding local services like plumbers and electricians i
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
 
-#### 🌍 [**Cosmo Travel**](https://github.com/amangupta812/cosmo-travel)  
-A web app designed to enhance travel experiences by providing useful tools and features for travelers.  
-👉 **Live Demo**: [Cosmo Travel App](https://cosmo-travel-hub.netlify.app/)
-
-<p align="center">
-  <a href="https://github.com/amangupta812/cosmo-travel">
-    <img src="https://img.shields.io/badge/GitHub-Repo-%23007A5E?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
 
