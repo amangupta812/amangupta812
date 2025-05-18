@@ -76,7 +76,7 @@ A MERN stack project for finding local services like plumbers and electricians i
 ### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amangupta812">
+  <a href="https://www.linkedin.com/in/aman-gupta-034ab62a9/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your-email@example.com">
