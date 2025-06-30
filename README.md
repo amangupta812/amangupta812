@@ -72,10 +72,10 @@ An AI-powered personal finance tracker built using JavaScript, Tailwind CSS, and
 👉 **Live Demo**: [Smart Finance Assistant App](https://smart-finance-assistant.netlify.app/)
 
 <p align="center">
-  <a href="https://github.com/amangupta812/smart-finance-assistant">
+  <a href="https://github.com/amangupta812/smart-finance-assistant" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Repo-%23007A5E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://smart-finance-assistant.netlify.app/">
+  <a href="https://smart-finance-assistant.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live-Site-%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
