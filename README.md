@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Aman Gupta 👋</h1>
+<h1 align="center">Hey there, I'm Aman Kumar 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF94&center=true&vCenter=true&width=440&lines=Full+Stack+Web+Developer+%F0%9F%92%BB;MERN+Stack+Learner+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;DSA+%2B+Java+Explorer+%E2%9C%A8;Always+Learning+Something+New+%F0%9F%93%9A" />
