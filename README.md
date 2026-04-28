@@ -80,16 +80,32 @@ An AI-powered personal finance tracker built using JavaScript, Tailwind CSS, and
   </a>
 </p>
 
-#### 🛠️ [**Hyperlocal Service Finder**](https://github.com/amangupta812/hyperlocal-service-finder)  
-A MERN stack project for finding local services like plumbers and electricians in your area.
+#### 🛒 [**NovaCart – E-commerce Platform**](https://github.com/amangupta812/novacart-ecommerce)  
+A full-stack MERN e-commerce application with secure authentication, product management, and order processing.
 
 <p align="center">
-  <a href="https://github.com/amangupta812/hyperlocal-service-finder">
+  <a href="https://github.com/amangupta812/novacart-ecommerce">
     <img src="https://img.shields.io/badge/GitHub-Repo-%23007A5E?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://novacart-store.netlify.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-%2300C853?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
 
 ---
+
+### 🚀 Features
+- 🔐 JWT-based Authentication & Authorization  
+- 🛍️ Product Listing & Management  
+- 🛒 Cart & Order Processing System  
+- ⚡ RESTful APIs with optimized backend performance  
+- 📦 Scalable MERN architecture  
+
+### 🛠️ Tech Stack
+- **Frontend:** React.js, Tailwind CSS  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB Atlas  
+- **Tools:** Git, GitHub, Postman, Netlify  
 
 ### 📫 Let's Connect
 
@@ -97,7 +113,7 @@ A MERN stack project for finding local services like plumbers and electricians i
   <a href="https://www.linkedin.com/in/aman-gupta-034ab62a9/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:amangupta8.tech@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
