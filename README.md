@@ -135,8 +135,15 @@ An AI-assisted personal finance application for tracking income, expenses and bu
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amangupta812&theme=react-dark&bg_color=151515&hide_border=true" />
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=amangupta812&theme=react-dark&bg_color=151515&hide_border=true" /> -->
+  <picture>
+    <!-- Dark mode image -->
+    <source
+        srcset="https://github.pumbas.net/api/contributions/amangupta812?bgColour=161B22"
+        media="(prefers-color-scheme: dark)"
+    />
 </p>
+
 
 ---
 
