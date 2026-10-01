@@ -8,14 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF94&center=true&vCenter=true&width=520&lines=Software+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80;C%2B%2B+%7C+Python+%7C+Linux+%F0%9F%94%A5;DSA+%7C+Backend+%7C+Systems+%F0%9F%9B%A0%EF%B8%8F;Always+Learning+%F0%9F%93%9A" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/amangupta812">
-    <img src="https://img.shields.io/github/followers/amangupta812?label=Followers&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/amangupta812?tab=repositories">
-    <img src="https://img.shields.io/github/stars/amangupta812?label=Stars&style=for-the-badge" />
-  </a>
-</p>
 
 ---
 
