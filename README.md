@@ -9,6 +9,7 @@
 </p>
 
 
+
 ---
 
 ## 👨‍💻 About Me
@@ -23,8 +24,6 @@
 ---
 
 ## 🛠️ Technical Skills
-
-### 💻 Programming Languages
 
 ### 💻 Programming Languages
 
