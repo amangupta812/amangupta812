@@ -185,15 +185,14 @@ Embedded Systems
 
 ## 🎯 Career Focus
 
-I'm currently building my skills toward roles involving:
+I'm building my skills toward software engineering roles with a focus on:
 
-- Software Engineering
-- Backend Development
-- C++ Development
-- Linux / System Programming
-- Embedded Software
-- Full Stack Development
-
+- 💻 Software Engineering & Backend Development
+- 🐍 Python & C++ Development
+- 🌐 Full Stack Development
+- 🐧 Linux & System Programming
+- 🧠 Data Structures & Algorithms
+ 
 ---
 
 ## 📫 Let's Connect
